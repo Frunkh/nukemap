@@ -1,0 +1,4 @@
+//const MBOX_TOKEN = "pk.eyJ1Ijoidml6c29jaWV0eSIsImEiOiJjam5tMnp4MmgwMWlxM3FqejB4ZDc3MDB2In0.pEw-1tGbYlNbqLlxCDxeVg";
+const NUKEMAP_TOKEN = "pk.eyJ1Ijoidml6c29jaWV0eSIsImEiOiJjanFwdHFzcm8wMzc2NDlvdGgxMGxyb2xjIn0.U56mRoOfTj4l20q3Bsy9mA";
+const MBOX_TOKEN = "pk.eyJ1Ijoidml6c29jaWV0eSIsImEiOiJjanFwdHFzcm8wMzc2NDlvdGgxMGxyb2xjIn0.U56mRoOfTj4l20q3Bsy9mA";
+const MBOXGL_TOKEN = "pk.eyJ1Ijoidml6c29jaWV0eSIsImEiOiJjanNiMjV3d2owNWl6NDlwZWh0Nmh1aTRpIn0.mL2y6IaZMWN7uG-sJHdc5g";
